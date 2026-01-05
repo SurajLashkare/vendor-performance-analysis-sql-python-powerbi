@@ -156,5 +156,5 @@ python scripts/get_vendor_summary.py
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
 **Suraj Lashkare**  
-Data Analyst    
+Aspiring Data Analyst    
 🔗 [LinkedIn](https://www.linkedin.com/in/suraj-lashkare-2605a52aa/)
